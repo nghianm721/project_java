@@ -1,0 +1,11 @@
+
+chạy sql trước khi chạy netbeans
+databaseName=TOXIC;user=sa;password=123
+
+nếu chưa thiết lặp tài khoản sa
+coi video hướng dẫn :  https://www.youtube.com/watch?v=ftVcBoZRAMA
+
+Đăng nhập phần mền khi chạy thành công sql:
+các tài khoản mặc định:
+tk: 1  mk:1 quyền:admin
+tk:2   mk:2 quyền:user
